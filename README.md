@@ -6,6 +6,10 @@ Overview
 
 Dogdom is a mobile UI application developed using Kotlin and Jetpack Compose. It provides a delightful user interface for interacting with information related to dogs.
 
+Figma Screenshot
+-----------
+<img src="./public/dogdom.png" />
+
 Preview
 -----------
 <img src="./public/Friendzy.gif" />
@@ -22,7 +26,7 @@ How to Run
 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/DevHumbleChris/jt-compose-profile-card-ui.git
+    git clone https://github.com/DevHumbleChris/Dogdom.git
 ```
 
 2. Open the project in Android Studio.
@@ -33,7 +37,7 @@ Code Structure
 
 The codebase is organized as follows:
 
-- `app/src/main/java/com/example/profilecardui/` - Contains the main source code.
+- `app/src/main/java/com/example/dogdom/` - Contains the main source code.
 - `app/src/main/res/` - Contains resources such as layout files and drawables.
 
 Dependencies
@@ -67,3 +71,8 @@ Acknowledgments
 ---------------
 
 I would like to express my gratitude to [@Hutsy](https://twitter.com/Hutsydev) for making UI development in Android more enjoyable.
+
+Contact
+---------------
+
+For any inquiries or feedback, please contact [christopherodhiambo254@gmail.com](christopherodhiambo254@gmail.com)
